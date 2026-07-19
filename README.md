@@ -9,12 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ahmadimohammadmahdi333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff99" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmd0275&label=Profile%20Views&color=00ff99&labelColor=000000&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -36,7 +30,7 @@
   <!-- Python & Backend -->
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20" alt="Django" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram Bot" />
+  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram Bot" />
   
   <br>
   
@@ -48,10 +42,8 @@
   <br>
   
   <!-- Hardware & Embedded -->
-  <img src="https://img.shields.io/badge/C_(Keil)-000000?style=for-the-badge&logo=c&logoColor=00599C" alt="Keil" />
   <img src="https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B" alt="STM32" />
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Smart_Home-000000?style=for-the-badge&logo=homeassistant&logoColor=41BDF5" alt="Home Automation" />
 </p>
 
 ---
@@ -66,12 +58,31 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmd0275&show_icons=true&bg_color=0d1117&title_color=00ff99&text_color=ffd700&icon_color=00ff99&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmd0275&background=0d1117&ring=00ff99&fire=ffd700&currStreakNum=ffd700&sideNums=ffd700&currStreakLabel=00ff99&sideLabels=00ff99&dates=ffd700&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmd0275&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff99&text_color=ffd700&icon_color=00ff99&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmd0275&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ff99&text_color=ffd700&icon_color=00ff99&hide_border=true" alt="Top Languages" />
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmd0275&layout=compact&bg_color=0d1117&title_color=00ff99&text_color=ffd700&icon_color=00ff99&hide_border=true" alt="Top Languages" />
-</div>
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:ahmadimohammadmahdi333@gmail.com">
+    <img src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMTQ4NDUvMTQ4NDU2NjMucG5n&ts=1784471847&sig=75e52702cac1d9c4aed0064c40e097c524da81588a85e0d542971e2e72f819b8" alt="Gmail" width="32" style="vertical-align: middle;" />
+  </a>
+  <code>                ahmadimohammadmahdi333@gmail.com</code>
+</p>
+
+<p align="center">
+  <a href="https://t.me/The_mohammadmehdi">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram" style="vertical-align: middle;" />
+  </a>
+  <code>                   @The_mohammadmehdi</code>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/mmd_0275">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" style="vertical-align: middle;" />
+  </a>
+  <code>                           @mmd_0275</code>
+</p>
